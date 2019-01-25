@@ -2,7 +2,7 @@ applications:
   - path: .
     name: Node-Red-IoT-TR
     environment_json: {}
-    memory: 128M
+    memory: 196M
     instances: 1
     disk_quota: 1024M
     services:
